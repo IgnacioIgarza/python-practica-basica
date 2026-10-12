@@ -1,0 +1,4 @@
+Hola, este es un ejemplo de cómo guardar información en un archivo externo.
+Lineaa 2: Esta es otra línea de texto.
+Linea 3: Y esta es la última línea de texto.
+Esta es una línea agregada al archivo.
